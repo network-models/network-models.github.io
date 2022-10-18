@@ -25,11 +25,15 @@
 </details>
 
 <p></p>
-15 сентября: <details>
+30 июня: <details>
   <summary> «О теоретико-игровой модели формирования сети, использующей взвешенную центральность посредничества» - Иван Самойленко, Факультет математики НИУ ВШЭ</summary>
   
-  > С 1950-х годов активно исследуется вопрос того каким образом в реальных задачах возникают сетевые структуры В ходе изучения этой области было обнаружено, что сети, полученные из источников разной природы, обладают многими общими свойствами. Было предложено множество хороших вероятностных моделей, однако вероятностный подход не позволяет объяснить причину возникновения конкретных связей. В своей работе я рассмотрел теоретико-игровую модель, использующую взвешенную центральность посредничества (betweenness centrality). Модель позволяет не только получить более сильное ограничение на свойство малого мира (мы назовем это свойство "сверхмалый мир", также более известное как "правило 6 рукопожатий"), но и предположить стратегические причины, по которым образуются конкретные связи, а также причины, по которым правило 6 рукопожатий реализуется в социальных сетях. 
-  Since the 1950s, the question of how networks grow and what laws manage their behavior has been actively investigated. In the course of development of this area it was found that networks obtained from different sources have many common properties. The main problems in this topic are as follows: most models are probabilistic and do not explain the reasons for a particular vertex behavior. In this paper we propose a game-theoretic model that uses the weighted betweenness centrality. The model allows not only to get a stronger restriction on the small world property (we will call it "super small world", more commonly known as "six degree of separation") but also to assume strategic reasons why exactly the connections that we can observe are formed in real-life networks.
+  > С 1950-х годов активно исследуется вопрос того каким образом в реальных задачах возникают сетевые структуры В ходе изучения этой области было обнаружено, что сети, полученные из источников разной природы, обладают многими общими свойствами. Было предложено множество хороших вероятностных моделей, однако вероятностный подход не позволяет объяснить причину возникновения конкретных связей. В своей работе я рассмотрел теоретико-игровую модель, использующую взвешенную центральность посредничества (betweenness centrality). Модель позволяет не только получить более сильное ограничение на свойство малого мира (мы назовем это свойство "сверхмалый мир", также более известное как "правило 6 рукопожатий"), но и предположить стратегические причины, по которым образуются конкретные связи, а также причины, по которым правило 6 рукопожатий реализуется в социальных сетях.
 </details>
 
-
+<p></p>
+22 сентября: <details>
+  <summary> «A general framework to link theory and empirics in opinion formation models» - Козицин Иван Владимирович, к.ф-м.н., ИПУ РАН</summary>
+  
+  > Доклад по мотивам моей недавно вышедшей статьи https://www.nature.com/articles/s41598-022-09468-3
+</details>
