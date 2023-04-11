@@ -11,6 +11,14 @@
 ### Доклады 2022
 ***
 <p></p>
+15 декабря: <details>
+  <summary> <b><i>«Binary Opinion Space in the SCARDO Model: Precise Analytical Description»</i></b> - Козицин Иван Владимирович, к.ф-м.н., ИПУ РАН</summary>
+  
+  > <br>
+  > Доклад посвящен посвященным недавно принятой в журнал Advances in Systems Science and Applications (ASSA) работе: https://ijassa.ipu.ru/index.php/ijassa/article/view/1292. 
+</details>
+
+<p></p>
 29 сентября: <details>
   <summary> <b><i>«Моделирование динамики социальных групп»</i></b> - Денис Сергеевич Андреюк, к.б.н., доцент, Экономический ф-т МГУ</summary>
   
