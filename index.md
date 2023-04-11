@@ -15,8 +15,18 @@
   <summary> <b><i>«Binary Opinion Space in the SCARDO Model: Precise Analytical Description»</i></b> - Козицин Иван Владимирович, к.ф-м.н., ИПУ РАН</summary>
   
   > <br>
-  > Доклад посвящен посвященным недавно принятой в журнал Advances in Systems Science and Applications (ASSA) работе: https://ijassa.ipu.ru/index.php/ijassa/article/view/1292. 
+  > Доклад посвящен недавно принятой в журнал Advances in Systems Science and Applications (ASSA) работе: https://ijassa.ipu.ru/index.php/ijassa/article/view/1292. 
 </details>
+
+<p></p>
+15 декабря: <details>
+  <summary> <b><i>«Binary Opinion Space in the SCARDO Model: Precise Analytical Description»</i></b> - Градосельская Галина Витальевна к. социол. н., научный руководитель Института Сетевого анализа, в.н.с. Центра цифровой социологии «Ядов-Центр», РГГУ
+</summary>
+  
+  > <br>
+  > Обсуждение исследований по прикладным направлениям, посвященным картированию социальных сетей и обработке текстовых массивов (векторизация текстов, их классификация, нейросетевое моделирование). 
+</details>
+
 
 <p></p>
 29 сентября: <details>
